@@ -34,4 +34,4 @@ This project helped me practice:
 - Basic error handling *(if applicable)*
 
  Author
- Vedashree M MOger
+ Vedashree M Moger
